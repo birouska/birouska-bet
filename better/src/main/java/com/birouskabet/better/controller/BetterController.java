@@ -1,7 +1,7 @@
-package com.bolaobrasil.better.controller;
+package com.birouskabet.better.controller;
 
-import com.bolaobrasil.better.entity.Better;
-import com.bolaobrasil.better.repository.BetterRepository;
+import com.birouskabet.better.entity.Better;
+import com.birouskabet.better.repository.BetterRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

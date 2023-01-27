@@ -1,10 +1,8 @@
-package com.bolaobrasil.better.repository;
+package com.birouskabet.better.repository;
 
-import org.springframework.data.jpa.repository.JpaRepository;
+import com.birouskabet.better.entity.Better;
 import org.springframework.stereotype.Repository;
-
-import com.bolaobrasil.better.entity.Better;
-
+import org.springframework.data.jpa.repository.JpaRepository;
 
 @Repository
 public interface BetterRepository extends JpaRepository<Better, Long> {

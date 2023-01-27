@@ -1,4 +1,4 @@
-package com.bolaobrasil.better.entity;
+package com.birouskabet.better.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
